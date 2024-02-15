@@ -53,9 +53,9 @@
   <h2>Projects</h2>
 
   <ul>
-    <li><strong>My Kitty Config:</strong> Configuration settings for my Kitty terminal emulator.</li>
-    <li><strong>My Fish Config:</strong> Configuration settings for my Fish shell.</li>
-    <li><strong>My AwesomeWM Setup:</strong> Configuration and setup for my Awesome Window Manager.</li>
+    <li><strong>[Kitty Config](link-to-repo):</strong> Configuration settings for my Kitty terminal emulator.</li>
+    <li><strong>[Fish Config](link-to-repo):</strong> Configuration settings for my Fish shell.</li>
+    <li><strong>[AwesomeWM Setup](link-to-repo):</strong> Configuration and setup for my Awesome Window Manager.</li>
   </ul>
 
   <p>Looking forward to connecting with fellow developers and enthusiasts! 🚀</p>
