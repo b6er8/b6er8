@@ -11,5 +11,5 @@ I use this just to keep my configs safe (just for now).
 ## Projects
 
 - [**Kitty Config**](link-to-kitty-config): Configuration settings for my Kitty terminal emulator.
-- [**Fish Config**](link-to-fish-config): Configuration settings for my Fish shell.
+- [**Fish Config**](fish-config): Configuration settings for my Fish shell.
 - [**AwesomeWM Setup**](link-to-awesome-wm-setup): Configuration and setup for my Awesome Window Manager.
