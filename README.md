@@ -1,7 +1,7 @@
-<h1 align="center" style="color:red;">I AM HIM</h1>
+<h1 align="center">I AM HIM</h1>
 
-- ![Discord Icon](https://img.shields.io/badge/Discord-b6er8-blue?logo=discord&logoColor=white&style=flat-square) b6er8
-- ![Email Icon](https://img.shields.io/badge/Email-b6er8%40tutanota.com-red?logo=tutanota&logoColor=white&style=flat-square) b6er8@tutanota.com
+- ![Discord Icon](https://img.shields.io/badge/Discord-b6er8-blue?logo=discord&logoColor=white&style=flat-square)
+- ![Email Icon](https://img.shields.io/badge/Email-b6er8%40tutanota.com-red?logo=tutanota&logoColor=white&style=flat-square)
 - DM me anytime about anything!
 
 ## About Me
