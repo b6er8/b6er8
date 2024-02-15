@@ -10,6 +10,6 @@ I use this just to keep my configs safe (just for now).
 
 ## Projects
 
-- [**Kitty Config**](https//:github.com/b6er8/kitty-config): Configuration settings for my Kitty terminal emulator.
-- [**Fish Config**](https//:github.com/b6er8/fish-config): Configuration settings for my Fish shell.
-- [**AwesomeWM Setup**](https//:github.com/b6er8/lawesomewm-setup): Configuration and setup for my Awesome Window Manager.
+- [**Kitty Config**] : Configuration settings for my Kitty terminal emulator.
+- [**Fish Config**]: Configuration settings for my Fish shell.
+- [**AwesomeWM Setup**]: Configuration and setup for my Awesome Window Manager.
