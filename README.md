@@ -1,4 +1,4 @@
-<h1>I AMD HIM</h1>
+<h1>I AM HIM</h1>
 <body>
 <p>
   discord : b6er8
